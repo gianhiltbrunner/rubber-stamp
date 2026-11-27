@@ -2,7 +2,7 @@ class RubberStamp < Formula
   desc "Menu bar app that lists or auto-approves GitHub PRs you are asked to review"
   homepage "https://github.com/gianhiltbrunner/rubber-stamp"
   url "https://github.com/gianhiltbrunner/rubber-stamp/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "SHA256_PLACEHOLDER"
+  sha256 "5a4066d0ecb39e17ce8679b49a248a3670e01418e85366c5b66e12e53741726c"
   license "MIT"
   head "https://github.com/gianhiltbrunner/rubber-stamp.git", branch: "main"
 
